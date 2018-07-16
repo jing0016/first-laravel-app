@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
-//this will add laravel’s default navbar to your page
+{{--this will add laravel’s default navbar to your page--}}
 
 @section('content')
 
-    //here goes your body content
+    {{--here goes your body content--}}
     <div class="container">
         @if (Auth::check())
             <h2>Tasks List</h2>
