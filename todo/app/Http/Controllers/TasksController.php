@@ -8,7 +8,7 @@ use App\Task;
 
 class TasksController extends Controller
 {
-    //
+
     public function index()
     {
         $user = Auth::user();

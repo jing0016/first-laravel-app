@@ -1,10 +1,10 @@
 
-/**
- * Created by PhpStorm.
- * User: jing
- * Date: 2018/7/15
- * Time: 3:37 PM
- */
+{{--/**--}}
+ {{--* Created by PhpStorm.--}}
+ {{--* User: jing--}}
+ {{--* Date: 2018/7/15--}}
+ {{--* Time: 3:37 PM--}}
+ {{--*/--}}
 
 @extends('layouts.app')
 
@@ -12,7 +12,7 @@
 
 @section('content')
 
-    //here goes your body content
+    {{--//here goes your body content--}}
     <div class="container">
         <h1>Edit the Task</h1>
 
